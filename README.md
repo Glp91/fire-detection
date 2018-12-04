@@ -14,5 +14,8 @@ dependencies: Python 3,6
 
 model path:'path/fire-resnet-graph/'
 
+training configuration file path: object_detection/path/fire-resnet-graph/pipeline.config
+
+
 to run the fire detector:
 python3 fire-detection.py
