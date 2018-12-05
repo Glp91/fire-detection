@@ -12,7 +12,7 @@ dependencies: Python 3,6
               openCV, 
               TensorFlow.
 
-model path:'path/fire-resnet-graph/'
+model path:'path/fire-resnet-graph/', there are no checkpoints, use your own models.
 
 training configuration file path: object_detection/path/fire-resnet-graph/pipeline.config
 
